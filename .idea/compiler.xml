@@ -6,8 +6,9 @@
         <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.7">
       <module name="core" target="1.7" />
+      <module name="YoteShinGuide.app" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
